@@ -1,0 +1,1 @@
+msg = """Olá Bom dia"""
